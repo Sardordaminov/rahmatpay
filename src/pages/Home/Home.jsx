@@ -1,8 +1,9 @@
 import React from 'react'
+import { HomeStyles } from './Home.styles'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <HomeStyles>Home</HomeStyles>
   )
 }
 
